@@ -13,3 +13,5 @@ and english, and see the information about each dish. The user can also insert a
 and dishes relative to the value he entered.
 
 The code files used to write this project are included, however, the website cannot be opened due to lack of database and other configurations.
+
+The project requirements and instructions are included.
